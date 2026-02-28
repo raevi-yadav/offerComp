@@ -1,0 +1,5 @@
+{
+  "name": "OfferComp - Job Offer Calculator",
+  "description": "A comprehensive tool to calculate and compare job offers, including base salary, stocks, bonuses, and PF, with first-year CTC and hike analysis.",
+  "requestFramePermissions": []
+}
